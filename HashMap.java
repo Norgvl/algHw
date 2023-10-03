@@ -4,7 +4,7 @@
      * @param <V> тип значения
      */
 
-    static public class HashMap <K, V> {
+    public class HashMap  <K, V> {
 
         @Override
         public String toString() {
